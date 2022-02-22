@@ -1,8 +1,7 @@
 {
-    "token" : "YOUR BOT TOKEN",
-    "admins" : ["ADMIN USERNAMES (ARRAY)"],
-    "intro" : "YOUR INTRO HERE",
-    "botname" :"YOUR BOT NAME HERE",
-    "signup" : SIGNUP BONUS (NUMBER),
-    "ref" : REFERRAL BONUS (NUMBER)
+    "token" : "5112375957:AAEmzK31A97kaWeXMxdB924nkrQafVwVoME",
+    "intro" : "Updater",
+    "botname" :"stbstbbot",
+    "stabilagroup": "https://t.me/stabilastb"
+
 }
